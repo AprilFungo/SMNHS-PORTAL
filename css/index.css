@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+   height: 85px;
+   width: 85px;
+}
+
+.navbar{
+    background-color:rgb(8, 120, 124) ;
+    overflow: hidden; 
+    position: fixed;
+    width: 100%;
+    z-index: 1; 
+}
+#anchor{
+  text-decoration: none;
+  color: black;
+}
+
+/* card */
+#card-logo{
+  width: 100%;
+}
+.card{
+  background-color: rgb(147, 153, 150);
+}

@@ -14,6 +14,8 @@
     position: fixed;
     z-index: 1; 
 }
+
+/* login modal */
 #anchor{
   text-decoration: none;
   color: black;
@@ -27,12 +29,17 @@
 #index-container{
   padding-top: 130px;
 }
+#line{
+  background-color: black;
+  
+}
+
 
 /* card */
 #card-logo{
   width: 100%;
 }
-.card{
+#form-card{
   background-color: rgb(147, 153, 150);
 }
 #home-anchor{
